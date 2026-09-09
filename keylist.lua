@@ -17,11 +17,11 @@ return {
         max_devices = 1,
         SLOT = "2"
     },
-    ["RAJPOOT"] = {
+    ["RAJPOOT60"] = {
         type = "DEMO",
-        expiry = "2026-10-10",
+        expiry = "2026-11-10",
         valid = true,
-        max_devices = 2,
+        max_devices = 1,
         SLOT = "3"
     },
     ["RAJPDISK"] = {
