@@ -10,26 +10,47 @@ return {
         max_devices = 20,
         SLOT = "1"
     },
-    ["DEMO123"] = {
-        type = "DEMO",
-        expiry = "2026-08-01",
-        valid = true,
-        max_devices = 5,
-        SLOT = "2"
-    },
-    ["RAJPOOT"] = {
+    ["DRAJPOOT1"] = {
         type = "DEMO",
         expiry = "2026-09-10",
         valid = true,
         max_devices = 1,
+        SLOT = "2"
+    },
+    ["RAJPOOT"] = {
+        type = "DEMO",
+        expiry = "2026-10-10",
+        valid = true,
+        max_devices = 1,
         SLOT = "3"
     },
-    ["SINGLE_USER"] = {
+    ["RAJPDISK"] = {
+        type = "VIP",
+        expiry = "2025-01-01",
+        valid = true,
+        max_devices = 2,
+        SLOT = "4"
+    },
+    ["RAJSEAJF"] = {
         type = "VIP",
         expiry = "2025-01-01",
         valid = true,
         max_devices = 1,
-        SLOT = "4"
+        SLOT = "5"
+    },
+    ["RAJSxF"] = {
+        type = "VIP",
+        expiry = "2025-01-01",
+        valid = true,
+        max_devices = 1,
+        SLOT = "6"
+    },
+    ["RAJSxF"] = {
+        type = "VIP",
+        expiry = "2026-09-12",
+        valid = true,
+        max_devices = 1,
+        SLOT = "7"
     },
     ["BLOCKED"] = {
         type = "BLOCKED",
