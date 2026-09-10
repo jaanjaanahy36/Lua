@@ -52,6 +52,13 @@ return {
         max_devices = 1,
         SLOT = "7"
     },
+    ["DRAJP60"] = {
+        type = "DEMO",
+        expiry = "2026-11-11",
+        valid = true,
+        max_devices = 2,
+        SLOT = "8"
+    },
     ["BLOCKED"] = {
         type = "BLOCKED",
         expiry = "2026-12-31",
