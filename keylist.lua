@@ -25,7 +25,7 @@ return {
         SLOT = "3"
     },
     ["RAJPDISK"] = {
-        type = "VIP",
+        type = "DEMO",
         expiry = "2026-11-10",
         valid = true,
         max_devices = 1,
