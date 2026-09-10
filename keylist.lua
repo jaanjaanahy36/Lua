@@ -12,9 +12,9 @@ return {
     },
     ["DRAJPOOT1"] = {
         type = "DEMO",
-        expiry = "2026-09-10",
+        expiry = "2026-09-11",
         valid = true,
-        max_devices = 1,
+        max_devices = 2,
         SLOT = "2"
     },
     ["RAJPOOT60"] = {
