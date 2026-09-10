@@ -26,21 +26,21 @@ return {
     },
     ["RAJPDISK"] = {
         type = "VIP",
-        expiry = "2025-11-10",
+        expiry = "2026-11-10",
         valid = true,
         max_devices = 1,
         SLOT = "4"
     },
-    ["RAJSEAJF"] = {
+    ["RAJSEAJF60"] = {
         type = "VIP",
-        expiry = "2025-01-01",
+        expiry = "2026-11-10",
         valid = true,
         max_devices = 1,
         SLOT = "5"
     },
-    ["RAJSxF"] = {
+    ["RAJSxF60"] = {
         type = "VIP",
-        expiry = "2025-01-01",
+        expiry = "2026-11-10",
         valid = true,
         max_devices = 1,
         SLOT = "6"
