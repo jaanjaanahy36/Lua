@@ -32,21 +32,21 @@ return {
         SLOT = "4"
     },
     ["RAJSEAJF60"] = {
-        type = "VIP",
+        type = "DEMO",
         expiry = "2026-11-10",
         valid = true,
         max_devices = 1,
         SLOT = "5"
     },
     ["RAJSxF60"] = {
-        type = "VIP",
+        type = "DEMO",
         expiry = "2026-11-10",
         valid = true,
         max_devices = 1,
         SLOT = "6"
     },
     ["RAJSxF"] = {
-        type = "VIP",
+        type = "DEMO",
         expiry = "2026-09-12",
         valid = true,
         max_devices = 1,
