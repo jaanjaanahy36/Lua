@@ -21,14 +21,14 @@ return {
         type = "DEMO",
         expiry = "2026-11-10",
         valid = true,
-        max_devices = 3,
+        max_devices = 1,
         SLOT = "3"
     },
     ["RAJPDISK"] = {
         type = "VIP",
-        expiry = "2025-01-01",
+        expiry = "2025-11-10",
         valid = true,
-        max_devices = 2,
+        max_devices = 1,
         SLOT = "4"
     },
     ["RAJSEAJF"] = {
